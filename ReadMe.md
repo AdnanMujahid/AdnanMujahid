@@ -70,6 +70,7 @@ I enjoy turning complex app ideas into clean, user-friendly Flutter interfaces ð
 ---
 
 ## ðŸ“Š GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid)
 
 ![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=dark&cache_seconds=86400)
 ![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&theme=dark&hide_border=false)
