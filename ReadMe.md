@@ -83,10 +83,6 @@ I enjoy turning complex app ideas into clean, user-friendly Flutter interfaces ð
 ## ðŸ’» Top Programming Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&layout=compact&theme=dark)
-![](https://visitcount.itsvg.in/api?id=AdnanMujahid&icon=0&color=0)
-![](https://github-profile-trophy.vercel.app/?username=AdnanMujahid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://visitcount.itsvg.in/api?id=AdnanMujahid&icon=0&color=0)
-)
 
 
 ---
