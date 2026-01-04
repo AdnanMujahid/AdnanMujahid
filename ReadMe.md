@@ -1,60 +1,90 @@
-# 👋 Hi there, I'm Adnan Mujahid
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+Mobile+%26+Web;Firebase+Expert+%7C+Backend+Integration;AI+Enthusiast+%7C+Building+Smart+Apps;Open+Source+Contributor)](https://git.io/typing-svg)
+
+# 🚀 Adnan Mujahid | Flutter Developer & AI Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+%7C+Firebase+%7C+AI+Integration;Building+Scalable+Mobile+Apps;Turning+Ideas+into+Reality+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```dart
 class Developer {
-  String name = "Adnan Mujahid";
-  List<String> roles = ["Flutter Developer", "Firebase Expert", "AI Enthusiast"];
+  final String name = "Adnan Mujahid";
+  final List<String> expertise = [
+    "Flutter Development",
+    "Firebase Integration", 
+    "AI/ML Solutions",
+    "Backend APIs"
+  ];
   
-  Map<String, List<String>> currentFocus = {
-    "mobile": ["Flutter", "Dart", "Cross-platform"],
-    "backend": ["Firebase", "FastAPI", "Node.js", "Redis"],
-    "ai": ["Chatbots", "RAG Systems", "ML Integration"]
+  void currentlyWorkingOn() {
+    print("📱 Cross-platform Flutter apps");
+    print("🔥 Firebase Auth & Firestore");
+    print("🤖 AI-powered chatbots & RAG");
+    print("👥 Role-based systems");
+  }
+  
+  Map<String, dynamic> techStack = {
+    "mobile": ["Flutter", "Dart"],
+    "backend": ["Node.js", "FastAPI", "Redis"],
+    "database": ["Firebase", "MySQL", "SQLite"],
+    "ai_ml": ["Python", "scikit-learn", "Pandas"],
+    "tools": ["Git", "GitHub Actions", "Nginx"]
   };
-  
-  String funFact = "I turn complex ideas into elegant Flutter interfaces 🚀";
 }
 ```
 
+<br clear="right"/>
+
+---
+
+## 🎨 What I Do
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧑‍💻 Currently Working On
-- 📱 Flutter mobile & web applications
-- 🔥 Firebase-based apps with authentication
-- 🤖 AI-powered features (chatbots, RAG)
-- 👥 Role-based dashboards & systems
+### 💼 Currently Building
+```yaml
+projects:
+  - Flutter mobile & web apps
+  - Firebase authentication systems
+  - AI chatbots with RAG
+  - Role-based dashboards
+  - REST API integrations
+```
 
-### 🤝 Open to Collaborate On
-- Flutter apps (Mobile/Web)
-- Firebase & REST API projects
-- Open-source Flutter tools
-- AI-assisted applications
+### 🤝 Looking to Collaborate
+- 🔸 Flutter open-source projects
+- 🔸 Firebase-powered applications
+- 🔸 AI/ML integration projects
+- 🔸 Backend API development
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Currently Learning
-- Advanced Flutter & state management
-- Machine Learning & AI integrations
-- Backend scalability (FastAPI, Redis)
-- CI/CD for production apps
+### 📚 Learning Journey
+```yaml
+current_focus:
+  - Advanced Flutter patterns
+  - State management (Riverpod, Bloc)
+  - Machine Learning pipelines
+  - Scalable architectures
+  - DevOps & CI/CD
+```
 
-### 💬 Ask Me About
-- Flutter & Dart development
-- Firebase Auth & Firestore
-- Role-based app architecture
-- Chatbots & AI integrations
+### 💡 Ask Me About
+- 🔹 Flutter & Dart best practices
+- 🔹 Firebase Auth & Firestore
+- 🔹 Multi-role app architecture
+- 🔹 AI chatbot implementation
 
 </td>
 </tr>
@@ -62,109 +92,168 @@ class Developer {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanmujahid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanmujahid)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanmujahid360@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanmujahid360@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 📱 Mobile & Web Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### 🎯 Core Technologies
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+</tr>
+</table>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+### 📊 Data Science & ML
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanMujahid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=AdnanMujahid&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 </div>
 
 ---
 
-## 💻 Most Used Languages
+## 💻 Language Distribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="280"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdnanMujahid&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=AdnanMujahid&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  
-[![Adnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdnanMujahid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdnanMujahid&custom_title=Contribution%20Graph&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FE428E&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
+## 🎯 Profile Stats
 
 <div align="center">
   
-### 💖 Show some love by starring some repositories!
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanMujahid&theme=radical" width="100%" alt="Profile Summary"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdnanMujahid&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
-**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Featured Projects Coming Soon...
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐ If you like what I do, consider giving my repos a star!
+
+<img src="https://komarev.com/ghpvc/?username=AdnanMujahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+---
+
+**💼 Open to freelance opportunities and collaborations**
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
 </div>
