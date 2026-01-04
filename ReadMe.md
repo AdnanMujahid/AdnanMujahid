@@ -183,28 +183,15 @@ current_focus:
 
 </div>
 
----
-## 📊 GitHub Analytics
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=AdnanMujahid&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid)
 
----
+![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=dark&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=AdnanMujahid&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&theme=dark&layout=compact)
 
-## 💻 Language Distribution
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdnanMujahid&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
----
+![](https://visitcount.itsvg.in/api?id=AdnanMujahid&icon=0&color=0)
 
 ## 📈 Contribution Activity
 
