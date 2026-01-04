@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Adnan Mujahid | Flutter Developer & AI Enthusiast
+# 🚀 Adnan Mujahid | Software Engineer & Flutter Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+%7C+Firebase+%7C+AI+Integration;Building+Scalable+Mobile+Apps;Turning+Ideas+into+Reality+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
