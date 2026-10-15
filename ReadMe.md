@@ -1,105 +1,92 @@
 <div align="center">
 
-# 🚀 Adnan Mujahid | Software Engineer & Flutter Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d9ff&height=220&section=header&text=Adnan%20Mujahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Flutter+%7C+Firebase+%7C+AI+Integration;Building+Scalable+Mobile+Apps;Turning+Ideas+into+Reality+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Flutter+%C2%B7+Firebase+%C2%B7+Node.js;Building+scalable+mobile+apps;Apps+live+on+Google+Play;Open+to+freelance+projects" alt="Typing SVG" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdnanMujahid&label=Profile%20Views&color=00d9ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/AdnanMujahid?label=Followers&style=flat-square&color=302b63&logo=github)
+![Location](https://img.shields.io/badge/Islamabad-Pakistan-0f0c29?style=flat-square&logo=googlemaps&logoColor=00d9ff)
+![Status](https://img.shields.io/badge/Open%20to%20Work-Freelance-2ea44f?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I'm a **Flutter developer** based in Islamabad with a BS in Software Engineering (IIUI, 2025). I design and ship cross-platform apps with clean architecture, solid Firebase foundations, and custom Node.js backends. I work as a full-time freelancer and have published **5+ apps on Google Play**.
 
 ```dart
-class Developer {
-  final String name = "Adnan Mujahid";
-  final List<String> expertise = [
-    "Flutter Development",
-    "Firebase Integration", 
-    "AI/ML Solutions",
-    "Backend APIs"
+class AdnanMujahid extends Developer {
+  final role      = 'Flutter Developer & Software Engineer';
+  final location  = 'Islamabad, Pakistan 🇵🇰';
+  final education = 'BS Software Engineering, IIUI (2025)';
+
+  final focus = [
+    'Cross-platform Flutter apps',
+    'Firebase Auth, Firestore & role-based systems',
+    'REST APIs with Node.js, Express & MongoDB',
+    'MVVM / Clean Architecture',
   ];
-  
-  void currentlyWorkingOn() {
-    print("📱 Cross-platform Flutter apps");
-    print("🔥 Firebase Auth & Firestore");
-    print("🤖 AI-powered chatbots & RAG");
-    print("👥 Role-based systems");
+
+  Future<void> currentlyLearning() async {
+    await deepDive('Backend with Node.js + MongoDB');
+    await deepDive('Scalable architecture & CI/CD');
   }
-  
-  Map<String, dynamic> techStack = {
-    "mobile": ["Flutter", "Dart"],
-    "backend": ["Node.js", "FastAPI", "Redis"],
-    "database": ["Firebase", "MySQL", "SQLite"],
-    "ai_ml": ["Python", "scikit-learn", "Pandas"],
-    "tools": ["Git", "GitHub Actions", "Nginx"]
-  };
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🎨 What I Do
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Currently Building
-```yaml
-projects:
-  - Flutter mobile & web apps
-  - Firebase authentication systems
-  - AI chatbots with RAG
-  - Role-based dashboards
-  - REST API integrations
-```
+### 🚚 Load Souq
+A freight logistics marketplace, **live on Google Play**, with a companion admin app.
 
-### 🤝 Looking to Collaborate
-- 🔸 Flutter open-source projects
-- 🔸 Firebase-powered applications
-- 🔸 AI/ML integration projects
-- 🔸 Backend API development
+`Flutter` `Firebase` `Riverpod`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Learning Journey
-```yaml
-current_focus:
-  - Advanced Flutter patterns
-  - State management (Riverpod, Bloc)
-  - Machine Learning pipelines
-  - Scalable architectures
-  - DevOps & CI/CD
-```
+### 🎮 Multiplayer Tic-Tac-Toe
+Real-time Flutter game backed by a Socket.IO server.
 
-### 💡 Ask Me About
-- 🔹 Flutter & Dart best practices
-- 🔹 Firebase Auth & Firestore
-- 🔹 Multi-role app architecture
-- 🔹 AI chatbot implementation
+`Flutter` `Node.js` `Express` `Socket.IO` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Auth REST API
+JWT authentication and admin middleware, built as a reusable backend starter.
+
+`Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+A personal portfolio deployed on Vercel.
+
+[**adnanmujahid.vercel.app →**](https://adnanmujahid.vercel.app)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌐 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanmujahid)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanmujahid360@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social)
+[![All Repos](https://img.shields.io/badge/See%20all%20repositories-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AdnanMujahid?tab=repositories)
 
 </div>
 
@@ -109,115 +96,95 @@ current_focus:
 
 <div align="center">
 
-### 🎯 Core Technologies
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**🧩 State & Architecture**
+
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-1389FD?style=for-the-badge&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/MVVM%20%2F%20Clean-333?style=for-the-badge)
+
+**☁️ Backend & Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🤖 Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**⚙️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
+<td width="50%" valign="top">
+
+### 💼 I can help with
+- 📱 Flutter apps for Android, iOS & web
+- 🔥 Firebase auth, Firestore & push notifications
+- 👥 Role-based apps and admin panels
+- 🔌 REST API design and integration
+
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br>Dart
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br>Kotlin
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-<br>SQLite
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
+<td width="50%" valign="top">
+
+### 💬 Ask me about
+- Flutter & Dart best practices
+- Riverpod / GetX state management
+- Multi-role app architecture
+- Firebase security (App Check, rules)
+
 </td>
 </tr>
 </table>
 
-### 📊 Data Science & ML
+<div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-adnanmujahid360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanmujahid360@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanmujahid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://adnanmujahid.vercel.app)
 
 </div>
+
+---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid)
-
-![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=dark&cache_seconds=86400)
-![](https://github-readme-stats.vercel.app/api?username=AdnanMujahid&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=AdnanMujahid&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&theme=dark&layout=compact)
-
-![](https://visitcount.itsvg.in/api?id=AdnanMujahid&icon=0&color=0)
-
-## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdnanMujahid&custom_title=Contribution%20Graph&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FE428E&area=true&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdnanMujahid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&icon_color=00d9ff&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMujahid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&cache_seconds=86400" alt="Top Languages" />
 
-</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=AdnanMujahid&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="Streak Stats" />
 
----
-
-## 🎯 Profile Stats
-
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanMujahid&theme=radical" width="100%" alt="Profile Summary"/>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdnanMujahid&bg_color=0f0c29&color=00d9ff&line=00d9ff&point=ffffff&area_color=302b63&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
@@ -225,18 +192,10 @@ current_focus:
 
 <div align="center">
 
-### 🌟 Featured Projects Coming Soon...
+*"The only way to do great work is to love what you do." — Steve Jobs*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+**⭐ If you like what I build, consider starring a repo!**
 
-### ⭐ If you like what I do, consider giving my repos a star!
-
-<img src="https://komarev.com/ghpvc/?username=AdnanMujahid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
----
-
-**💼 Open to freelance opportunities and collaborations**
-
-*"The only way to do great work is to love what you do." - Steve Jobs*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
